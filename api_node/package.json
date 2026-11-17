@@ -1,0 +1,10 @@
+
+{
+  "name": "api-node-andrea",
+  "version": "1.0.0",
+  "description": "API de estado para la practica SGE",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
